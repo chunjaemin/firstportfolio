@@ -1,0 +1,199 @@
+.timeline-left-image-box{
+    
+}
+
+.left-image-box1{
+    width:100%;
+    height:2800px;
+}
+
+.left-image-box2{
+    width:100%;
+    height: 800px;
+}
+
+.left-image-box3{
+    width:100%;
+    height:310px;
+}
+
+.left-image-box4{
+    width:100%;
+    height:800px;
+}
+
+.left-image-box5{
+    width:100%;
+    height:300px;
+}
+
+.left-image-box6{
+    width:100%;
+    height:1300px;
+}
+
+.left-image-box7{
+    width:100%;
+    height:800px;
+}
+
+.left-image-box8{
+    width:100%;
+    height:300px;
+}
+
+.left-image-box9{
+    width:100%;
+    height:800px;
+}
+
+.left-image-box10{
+    width:100%;
+    height:800px;
+}
+
+.left-image-box11{
+    width:100%;
+    height:800px;
+}
+
+.left-image-box12{
+    width:100%;
+    height:300px;
+}
+
+.dashboard-card{
+    position:absolute;
+    background-color: white;
+    border-radius: 5px;
+    top:200px;
+    left:300px;
+    width:300px;
+    height:400px;
+    cursor: pointer;
+}
+
+.dashboard-card:hover{
+    transform: rotate(10deg);
+    opacity: 0.5;
+}
+
+.dashboard-card-image{
+    border-radius: 5px;
+    width:100%;
+    height:50%;
+    object-fit: cover;
+}
+
+.dashboard-card-title{
+    position: absolute;
+    top:200px;
+    left: 10px;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.dashboard-card-text{
+    position: absolute;
+    top:250px;
+    left: 10px;
+    font-size: 20px;
+}
+
+.dashboard-real-text-container{
+    position: absolute;
+    top: 300px;
+    left: 600px;
+    width:50%;
+    height:auto;
+}
+
+.dashboard-real-text{
+    position:absolute;
+    top:0;
+    left:0;
+    font-size:32px;
+    width:100%;
+    text-align: center;
+    transition:1s;
+    color:#CCCCCC;
+    opacity:0;
+}
+
+.dashboard-image-box{
+    position:absolute;
+    top:200px;
+    left:70px;
+    width:528px;
+    height:300px;
+}
+
+.dashboard-image{
+    border-radius: 5px;
+    width:100%;
+    height:100%;
+}
+
+.dashboard-image-card{
+    position:absolute;
+    top:200px;
+    left:300px;
+    width:300px;
+    height:400px;
+}
+
+.left-dashboard{
+    transition:0.5s;
+    opacity: 0;
+}
+
+.opacity1{
+    opacity: 1;
+    z-index:999;
+}
+
+.app-card-container{
+    position:absolute;
+    top:470px;
+    left:240px;
+    width:310px;
+    height:100px;
+    background-color: white;
+    border-radius: 17px;
+    opacity: 0;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.app-card-container:hover{
+    opacity: 0.5;
+}
+
+.app-card-container-animation{
+    opacity: 1;
+}
+
+.app-card-image{
+    position:absolute;
+    top:0px;
+    left:0px;
+    width:100px;
+    height:100px;
+    border:5px;
+}
+
+.app-card-title{
+    position:absolute;
+    top:-15px;
+    left:106px;
+    font-size:25px;
+    font-weight:800;
+}
+
+.app-card-text{
+    position:absolute;
+    top:30px;
+    left:106px;
+    font-size:20px;
+    color:rgb(126, 126, 126)
+}
