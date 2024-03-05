@@ -1,29 +1,7 @@
-# jaminPortfolio
+# https://jaminsportfolio.netlify.app/
 
-This template should help get you started developing with Vue 3 in Vite.
+제가 숭실대학교 소프트웨어학부에 2학년으로 전과하고자 만들어본 웹사이트입니다.
 
-## Recommended IDE Setup
+vue로 dashboard를 만들고 나서 지금까지 한 것 포폴로 만들어보면 좋겠다 싶어서 웹사이트로 한번 만들어 보았습니다.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+당시에 벡터image와 스크롤 애니메이션을 이용해 센스있게 표현한 웹사이트에서 영감을 얻어서 만들었습니다.
